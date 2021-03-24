@@ -17,4 +17,3 @@ class GetAllInteractor implements GetAllInterface
 		return $this->repository->getAll();
 	}
 }
-

@@ -2,7 +2,6 @@
 namespace Kernel\UseCases\User;
 
 use Kernel\Domain\Repositories\UserRepositoryInterface;
-
 use Kernel\Domain\Entities\User\User;
 use Kernel\Domain\Entities\User\UserId;
 use Kernel\Domain\Entities\User\UserName;

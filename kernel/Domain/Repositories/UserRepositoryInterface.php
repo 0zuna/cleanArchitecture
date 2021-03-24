@@ -5,7 +5,6 @@ use Kernel\Domain\Entities\User\User;
  
 interface UserRepositoryInterface
 {
-    public function getAll(): array;
-    public function store(User $user): User;
+	public function getAll(): array;
+	public function store(User $user): User;
 }
-
